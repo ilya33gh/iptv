@@ -19,7 +19,7 @@ https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
 https://ctc-live-edgecenter.mediavitrina.ru/hls-live1/streams/ctc/3s/ctc.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/136.jpg" tvg-id="sts-love" group-title="Региональные",СТС Love
-https://7gz7ncsvv5.a.trbcdn.net/hls-live2/streams/ctc-love/3s/ctc-love-chunks-subs-1.m3u8
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-love/3s/ctc-love-chunks-3.m3u8?cdn=https%3A%2F%2Fuser73248.clients-cdnnow.ru&token=v2.u7l2m5OzLr_t7xBi7PkL0c6oGqRvF0X9SXWZ8CqONqY.Azksk6_oCr3_FD1DX3A2QR5oiCaEXHKwIxg5Fpn6wBI.1673713011.94e1412d8648a0fbcbe79118bf94817c
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/137.jpg" tvg-id="che" group-title="Региональные",Че!
 http://78.25.155.47:1309/channel/Che.ts
@@ -53,3 +53,26 @@ http://50.7.164.210:8081/155/index.m3u8?wmsAuthSign=1673101720p53i781i151i98S40f
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",National Geographic
 http://50.7.120.164:8081/nat_geogra/index.m3u8?wmsAuthSign=833743b87daebe2a944b5a10758b6f1f-1673102403-53i781i151i98
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/253/281/png-clipart-discovery-channel-logo-discovery-channel-logo-television-channel-discovery-inc-investigation-television-world.png" tvg-id="discovery" group-title="Познавательные",Discovery
+http://95.217.196.109:8081/russia/discovery_sd_new/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/20.jpg" tvg-id="tv1000" group-title="Фильмы",TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/21.jpg" tvg-id="tv1000-action" group-title="Фильмы",TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/33.jpg" tvg-id="vip-premiere" group-title="Фильмы",VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8?profile=androidtv_max
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/32.jpg" tvg-id="vip-megahit" group-title="Фильмы",VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/35.jpg" tvg-id="vip-comedy" group-title="Фильмы",VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/34.jpg" tvg-id="vip-serial" group-title="Фильмы",VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+
