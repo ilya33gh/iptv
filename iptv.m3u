@@ -1,0 +1,55 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/2.jpg"  tvg-id="pervy" group-title="Региональные",Первый канал HD
+https://tv1-live-megafon.mediavitrina.ru/hls-live1/streams/1tv/3s/1tv-chunks-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/3.jpg" tvg-id="rossia1" group-title="Региональные",Россия 1 HD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/195.jpg" tvg-id="rossia-24" group-title="Новостные",Россия 24
+http://78.25.155.47:1309/channel/Ros_24.ts
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/196.jpg" tvg-id="kultura" group-title="Региональные",Россия Культура
+http://78.25.155.47:1309/channel/Ros_K.ts
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/1.jpg" tvg-id="tnt" group-title="Региональные",ТНТ
+https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/55.jpg" tvg-id="sts" group-title="Региональные",СТС HD
+https://ctc-live-edgecenter.mediavitrina.ru/hls-live1/streams/ctc/3s/ctc.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/136.jpg" tvg-id="sts-love" group-title="Региональные",СТС Love
+https://7gz7ncsvv5.a.trbcdn.net/hls-live2/streams/ctc-love/3s/ctc-love-chunks-subs-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/137.jpg" tvg-id="che" group-title="Региональные",Че!
+http://78.25.155.47:1309/channel/Che.ts
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/88.jpg" tvg-id="super" group-title="Региональные",Суббота
+https://live-s-202.uma.media/LIVE/LIVE:317845/HLS/1673115126/Ue846QweHujE6SJrGcsPBA/live/317845_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/50.jpg" tvg-id="match-tv" group-title="Спорт",Матч!
+https://cdn.video.matchtv.ru/media/playlist/ch_07df1808a9dc6a22d93495ae05b7181d_hd/17_86669241/360/416823596a52c40496b3ad34b2d9491a/1673125200.m3u8?sr=14&seek=1673080200
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/5.jpg" tvg-id="piatnica" group-title="Региональные",Пятница
+https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/58.jpg" tvg-id="tvcentr" group-title="Региональные",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/57.jpg" tvg-id="rentv" group-title="Региональные",РЕН ТВ
+https://rentv-live-edgecenter.mediavitrina.ru/hls-live2/streams/ren-tv/3s/ren-tv-chunks-subs-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/59.jpg" tvg-id="5kanal-ru" group-title="Региональные",Пятый канал
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5-chunks-3.m3u8?cdn=https%3A%2F%2Ftv5live-vitrina.cdnvideo.ru&token=v2.prvaLL3TRFPVwa2aCp1BgA4-Q_2x0ttFUzjtN3k2kdE.JhollBmRh8aS25iccMbQfOi-7G6IaFN76ZBGt2xjJfU.1673687648.e1b20aa3466f596be05780bb9ed91e2d
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/70.jpg" tvg-id="karusel" group-title="Детские",Карусель
+https://stream10.sputnik24.tv/karusel/480p/index.m3u8?sig=1673112329_8eb004e699b7d75416a7b922256bc76a
+
+#EXTINF:-1  tvg-logo="https://ip-tv.pro/img/icons/78.jpg" tvg-id="sts-kids-hd" group-title="Детские",СТС Kids
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/41.jpg" tvg-id="nickelodeon-hd" group-title="Детские",Nickelodeon HD
+http://50.7.164.210:8081/155/index.m3u8?wmsAuthSign=1673101720p53i781i151i98S40ff872926b39e15804c0cc9ddf917dc
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",National Geographic
+http://50.7.120.164:8081/nat_geogra/index.m3u8?wmsAuthSign=833743b87daebe2a944b5a10758b6f1f-1673102403-53i781i151i98
