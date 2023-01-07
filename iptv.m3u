@@ -37,7 +37,7 @@ https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
 http://iptv.ktkru.ru:8010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/57.jpg" tvg-id="rentv" group-title="Региональные",РЕН ТВ
-https://rentv-live-edgecenter.mediavitrina.ru/hls-live2/streams/ren-tv/3s/ren-tv-chunks-subs-1.m3u8
+https://nmg-live-megafon.mediavitrina.ru/hls-live2/streams/ren-tv/3s/ren-tv-chunks-subs-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/59.jpg" tvg-id="5kanal-ru" group-title="Региональные",Пятый канал
 https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5-chunks-3.m3u8?cdn=https%3A%2F%2Ftv5live-vitrina.cdnvideo.ru&token=v2.prvaLL3TRFPVwa2aCp1BgA4-Q_2x0ttFUzjtN3k2kdE.JhollBmRh8aS25iccMbQfOi-7G6IaFN76ZBGt2xjJfU.1673687648.e1b20aa3466f596be05780bb9ed91e2d
