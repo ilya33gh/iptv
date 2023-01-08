@@ -4,13 +4,13 @@
 https://tv1-live-megafon.mediavitrina.ru/hls-live1/streams/1tv/3s/1tv-chunks-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/3.jpg" tvg-id="rossia1" group-title="Региональные",Россия 1 HD
-http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+https://vgtrklive-vitrina.cdnvideo.ru/hls-live2/streams/russia1/3s/russia1-chunks-subs-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/195.jpg" tvg-id="rossia-24" group-title="Новостные",Россия 24
 http://78.25.155.47:1309/channel/Ros_24.ts
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/196.jpg" tvg-id="kultura" group-title="Региональные",Россия Культура
-http://78.25.155.47:1309/channel/Ros_K.ts
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist_3.m3u8?md5=yMRA_HMPwiEPmYXFML6mqA&e=1673180880&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/1.jpg" tvg-id="tnt" group-title="Региональные",ТНТ
 https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
@@ -28,7 +28,7 @@ http://78.25.155.47:1309/channel/Che.ts
 https://live-s-202.uma.media/LIVE/LIVE:317845/HLS/1673115126/Ue846QweHujE6SJrGcsPBA/live/317845_3/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/50.jpg" tvg-id="match-tv" group-title="Спорт",Матч!
-https://cdn.video.matchtv.ru/media/playlist/ch_07df1808a9dc6a22d93495ae05b7181d_hd/17_86669241/360/416823596a52c40496b3ad34b2d9491a/1673125200.m3u8?sr=14&seek=1673080200
+https://cdn.video.matchtv.ru/matchtv/matchtv_msk/1080/1673/17/96/1673179684325.ts
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/5.jpg" tvg-id="piatnica" group-title="Региональные",Пятница
 https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
