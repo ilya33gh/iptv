@@ -39,6 +39,9 @@ http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/57.jpg" tvg-id="rentv" group-title="Региональные",РЕН ТВ
 https://nmg-live-megafon.mediavitrina.ru/hls-live2/streams/ren-tv/3s/ren-tv-chunks-subs-1.m3u8
 
+#EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/user/76/5f/765f911615bf93586c0aefbf1a5e639e.jpg?size=s" tvg-id="ntv" group-title="Региональные",НТВ
+https://salam-2.rutube.ru/dive/river-3-301.rutube.ru/KhgxoAlq3cNaTI9_5gP6fA/stream/musang-704.brz.rutube.ru/PZQHZuXRO5tKqiritCo8ZQ/1673399630/6790928c5b1d07e50b71df24957c29ad/1080p_stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/59.jpg" tvg-id="5kanal-ru" group-title="Региональные",Пятый канал
 https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/3s/tv-5-chunks-3.m3u8?cdn=https%3A%2F%2Ftv5live-vitrina.cdnvideo.ru&token=v2.prvaLL3TRFPVwa2aCp1BgA4-Q_2x0ttFUzjtN3k2kdE.JhollBmRh8aS25iccMbQfOi-7G6IaFN76ZBGt2xjJfU.1673687648.e1b20aa3466f596be05780bb9ed91e2d
 
@@ -77,3 +80,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3639-6536-4466-b066-366363383539/_.jpg" tvg-id="muz-tv" group-title="Музыка",Муз-ТВ
 https://salam-2.rutube.ru/dive/river-1-402.rutube.ru/gTHUOqQofLF13iWbZ8Kn8w/stream/musang-702.brz.rutube.ru/4hG5Tq1JYuZGpOoWWg3QGQ/1673385351/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+
+
+
