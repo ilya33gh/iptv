@@ -74,3 +74,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/34.jpg" tvg-id="vip-serial" group-title="Фильмы",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3639-6536-4466-b066-366363383539/_.jpg" tvg-id="muz-tv" group-title="Музыка",Муз-ТВ
+https://salam-2.rutube.ru/dive/river-1-402.rutube.ru/gTHUOqQofLF13iWbZ8Kn8w/stream/musang-702.brz.rutube.ru/4hG5Tq1JYuZGpOoWWg3QGQ/1673385351/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
