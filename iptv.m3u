@@ -42,14 +42,28 @@ https://edge03r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/rentv_msk_blackou
 https://salam-2.rutube.ru/dive/river-3-301.rutube.ru/KhgxoAlq3cNaTI9_5gP6fA/stream/musang-704.brz.rutube.ru/PZQHZuXRO5tKqiritCo8ZQ/1673399630/6790928c5b1d07e50b71df24957c29ad/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/70.jpg" tvg-id="karusel" group-title="Детские",Карусель
-https://stream10.sputnik24.tv/karusel/480p/index.m3u8?sig=1673112329_8eb004e699b7d75416a7b922256bc76a
+https://mhd158.iptv2022.com/p/hAJ1yysab1-OYbU5Kg5ZCQ,1689089320/streaming/karusel-drm/324/5/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/70.jpg" tvg-id="karusel" group-title="Детские",Солнце
+https://mhd158.iptv2022.com/p/ty2CoxkfpT4iNhYDewOL7g,1689089362/streaming/solnce/324/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/70.jpg" tvg-id="karusel" group-title="Детские",Детский Мир
+https://mhd158.iptv2022.com/p/_LInWVrilApinNfNiQXxQw,1689089433/streaming/detmir/324/5/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://ip-tv.pro/img/icons/78.jpg" tvg-id="sts-kids-hd" group-title="Детские",СТС Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",National Geographic
-http://50.7.120.164:8081/nat_geogra/index.m3u8?wmsAuthSign=833743b87daebe2a944b5a10758b6f1f-1673102403-53i781i151i98
+http://50.7.120.164:8081/nat_geogra/index.m3u8?wmsAuthSign=4a1f0bd60cde542c41748f2d5e33140c-1689019944-632i871i151i98
 
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",Nat Geo Wild
+http://50.7.120.164:8081/natgeowild/index.m3u8?wmsAuthSign=19a555eb22cc08215f5a32b1bf41ac97-1689020045-632i871i151i98
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",Viju History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/11.jpg" tvg-id="national-geographic" group-title="Познавательные",РТД
+https://hls.rt.com/hls/rtdru360.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/20.jpg" tvg-id="tv1000" group-title="Фильмы",TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
@@ -68,6 +82,9 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/34.jpg" tvg-id="vip-serial" group-title="Фильмы",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/34.jpg" tvg-id="vip-serial" group-title="Фильмы",Любимое Кино
+https://mhd158.iptv2022.com/p/lTMDkgV5qXgCPPqJhEgJUQ,1689089515/streaming/lubimoe_kino/324/5/tracks-v3a1/mono.m3u8
 
 
 
