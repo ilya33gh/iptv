@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/2.jpg"  tvg-id="pervy" group-title="Региональные",Первый канал HD
-https://tv1-live-megafon.mediavitrina.ru/hls-live1/streams/1tv/3s/1tv-chunks-3.m3u8
+https://salam-2.rutube.ru/dive/river-7-702.rutube.ru/_r0wJYf67f8D_UwFcJsvHA/stream/genetta-502.ost.rutube.ru/1csazAEeFTSwU1JUEpfqHQ/1689017589/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/3.jpg" tvg-id="rossia1" group-title="Региональные",Россия 1 HD
-https://vgtrklive-vitrina.cdnvideo.ru/hls-live2/streams/russia1/3s/russia1-chunks-subs-1.m3u8
+https://salam-2-22.rutube.ru/dive/river-7-702.rutube.ru/PzitQyvthdSOZ9pkQW5MyA/stream/musang-701.brz.rutube.ru/LXJ1BC8v21oNr-h9Z4f6dA/1689017643/03929f2f53f4eeb0c9095043d6c55096/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/195.jpg" tvg-id="rossia-24" group-title="Новостные",Россия 24
-http://78.25.155.47:1309/channel/Ros_24.ts
+https://salam-2-25.rutube.ru/dive/river-3-302.rutube.ru/KUmocCE3MEnnhK6X-XydRA/stream/genetta-501.ost.rutube.ru/8zX7r9zBr6EE9B2ZxXlPTA/1689017746/4e9fd1bde11535b4787690052883f3d4/720p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ip-tv.pro/img/icons/196.jpg" tvg-id="kultura" group-title="Региональные",Россия Культура
 https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist_3.m3u8?md5=yMRA_HMPwiEPmYXFML6mqA&e=1673180880&hls_proxy_host=70b013ca21e8364cd537747cf862272b
